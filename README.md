@@ -40,7 +40,7 @@
 
 ## 作品
 - [获得优达学成前端开发（进阶）纳米学位](https://graduation.udacity.com/nd001-cn-advanced)
-![](http://ww4.sinaimg.cn/bmiddle/aa397b7fjw1dzplsgpdw5j.jpg)
+![](https://github.com/jzsplk/CV/blob/master/img/map_udacity.png)
 - [网页搭建之仿小米网管](https://jzsplk.github.io/xc-html-template/) 
 ## 技术文章
 （挑选你写作或翻译的技术文章，好的文章可以从侧面证实你的表达和沟通能力，也帮助招聘方更了解你）
