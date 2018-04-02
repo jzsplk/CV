@@ -42,13 +42,14 @@
    ![](https://github.com/jzsplk/CV/blob/master/img/map_udacity.png)
   - [Udacity 经典街机游戏克隆](https://github.com/jzsplk/front-udacity-ArcadeGame)：项目的简要说明，通过javascript可视化资源和canvas游戏循环引擎，编写一款在线青蛙过河游戏.在完成游戏项目基本要求之外，增加了物品收集奖励系统，在线排名系统，学习并制作sprite sheet,实现了sprite animation. 符合响应式规范
    ![](https://github.com/jzsplk/CV/blob/master/img/game_udacity.png)
+
 ## 作品
 - [获得优达学成前端开发（进阶）纳米学位](https://graduation.udacity.com/nd001-cn-advanced)
   ![](https://github.com/jzsplk/CV/blob/master/img/certification.png)
 - [网页搭建之仿小米网管](https://jzsplk.github.io/xc-html-template/) 
-## 技术文章
-（挑选你写作或翻译的技术文章，好的文章可以从侧面证实你的表达和沟通能力，也帮助招聘方更了解你）
 
-- [获得优达学成前端开发（进阶）纳米学位](https://graduation.udacity.com/nd001-cn-advanced)
+## 英语能力
 
-- [来自HeroKu的HTTP API 设计指南(翻译文章)](http://get.jobdeer.com/343.get) （ 好的翻译文章可以侧证你对英文技术文档的阅读能力）
+- 托业915分
+
+- 保持英文阅读至今
