@@ -35,6 +35,7 @@
 # 开源项目和作品
 ## 开源项目
   - [Udacity 图书跟踪应用](https://jzsplk.github.io/myReads_udacity/)：项目的简要说明，使用React框架编写一款搜索整理google图书的app. 应用具备图书收藏功能，对图书分类管理。持续改进项目体验，针对API搜索数据可能突变，做针对性处理，针对搜索性能问题做防抖处理，增加异步请求时间的等待动画，提高用户体验。
+    ![](https://github.com/jzsplk/CV/blob/master/img/myreads_udacity.png)
   - [Udacity 地图项目：找房记录及米其林地图 Project](https://github.com/jzsplk/map_project_udacity)
   ：使用knockout框架构建的一款地图App，符合响应式规范。使用Google Map构建地图标记点跟搜索Filter的同步筛选，集成了Yelp、FourSquare第三方API内容。开发过程中解决了cors问题，使得yelp API正常使用。
    ![](https://github.com/jzsplk/CV/blob/master/img/map_udacity.png)
@@ -48,4 +49,5 @@
 （挑选你写作或翻译的技术文章，好的文章可以从侧面证实你的表达和沟通能力，也帮助招聘方更了解你）
 
 - [获得优达学成前端开发（进阶）纳米学位](https://graduation.udacity.com/nd001-cn-advanced)
+  ![](https://github.com/jzsplk/CV/blob/master/img/certification.png)
 - [来自HeroKu的HTTP API 设计指南(翻译文章)](http://get.jobdeer.com/343.get) （ 好的翻译文章可以侧证你对英文技术文档的阅读能力）
